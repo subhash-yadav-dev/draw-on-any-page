@@ -2,7 +2,7 @@
 
 **Effective:** 2026-09-17
 **Extension:** `Draw on Any Page — Marker & Screenshot` (Chrome Web Store ID: `lpfbljkomajgaofgdjiecmdinonjofap`)
-**Homepage / Support:** This GitHub repository (e.g. `https://github.com/YOURNAME/draw-on-any-page`) — replace `YOURNAME` with your GitHub username before publishing.
+**Homepage / Support:** `https://github.com/subhash-yadav-dev/draw-on-any-page`
 
 ## Summary
 
@@ -44,5 +44,5 @@ Open an **Issue** in this GitHub repository for privacy questions. This reposito
 
 ---
 
-For Chrome Web Store **Privacy practices** tab: select **“Does not handle user data”** (or **No, I do not collect or transmit user data**) and certify compliance with the Developer Programme Policies. Paste a link to this file (raw GitHub URL, e.g. `https://raw.githubusercontent.com/YOURNAME/draw-on-any-page/main/PRIVACY.md` or the GitHub page `https://github.com/YOURNAME/draw-on-any-page/blob/main/PRIVACY.md`) as the **Privacy Policy URL**.
+For Chrome Web Store **Privacy practices** tab: select **“Does not handle user data”** (or **No, I do not collect or transmit user data**) and certify compliance with the Developer Programme Policies. Paste `https://raw.githubusercontent.com/subhash-yadav-dev/draw-on-any-page/main/PRIVACY.md` (or `https://github.com/subhash-yadav-dev/draw-on-any-page/blob/main/PRIVACY.md`) as the **Privacy Policy URL**.
 
